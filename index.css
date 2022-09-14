@@ -69,7 +69,7 @@ article{
     top: 32;
     left: -10;
 }
-.profile-info{
+#profile-info{
     margin: .5rem 1rem;
 }
 #actions{
